@@ -34,7 +34,7 @@ class Home extends StatelessWidget {
         padding: EdgeInsets.all(50),
         child: Icon(
           Icons.home,
-          color: Colors.blue.shade900,
+          color: Colors.green.shade900,
           size: 150,
         ),
       ),
